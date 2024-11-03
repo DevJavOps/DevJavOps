@@ -23,3 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnavella&" alt="johnavella" /></p>
 
+![snake gif](https://github.com/DevJavOps/Snek/blob/eeabf9a805b86d4a2cb02503a019873c07beafd0/github-snake.svg)
