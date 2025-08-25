@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Avella</h1>
 <h3 align="center">A DevSecOps Engineer</h3>
 
+<p>With a strong foundation in DevSecOps and Site Reliability Engineering best practices and automation, working across both cloud-native and on-premise ecosystems, focused on secure, efficient software delivery and automating CI/CD workflows and reinforcing platforms stability through monitoring, recovery planning and resilience engineering.</p>
+<p>Diligent with a passion for building efficient, reliable and secure infrastructure. A perceptive problem-solver, who thrives in dynamic environments where listening and understanding are key to successful outcomes. My open-minded approach allows me to adapt quickly to new technologies and methodologies, while a deep enthusiasm for technology motivates my pursuit of continuous growth and innovation.
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnavella&label=Profile%20views&color=0e75b6&style=flat" alt="johnavella" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnavella" alt="johnavella" /></a> </p>
