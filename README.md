@@ -1,5 +1,3 @@
-
-
 <div align="center">
 	<h1>Felipe Avella</h1>
 	<p>
@@ -13,7 +11,7 @@
 ---
 
 <div align="center">
-	<em>Welcome! I’m a passionate technologist with a strong foundation in DevSecOps and Site Reliability Engineering, working across both cloud-native and on-premise ecosystems. I focus on secure, efficient software delivery, automating CI/CD workflows, and reinforcing platform stability through monitoring, recovery planning, and resilience engineering.</em>
+	<em>Welcome! As an automation enthusiast, I leverage DevSecOps and SRE expertise to deliver secure, resilient, and efficient solutions across cloud-native and on-premise environments. My focus is on streamlining workflows, reliability, and continuous improvement at every layer of the stack.</em>
 </div>
 
 ---
