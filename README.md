@@ -113,7 +113,7 @@ Feb 2019 – Jul 2019
 ## 📫 Contact
 
 - Email: [DevJavOps@outlook.com](mailto:DevJavOps@outlook.com)
-- LinkedIn: [linkedin.com/in/felipeavella](www.linkedin.com/in/felipeavella)
+- LinkedIn: [linkedin.com/in/felipeavella](https://www.linkedin.com/in/felipeavella/)
 
 ---
 
