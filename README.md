@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-	<em>Welcome! As an automation enthusiast, I leverage DevSecOps and SRE expertise to deliver secure, resilient, and efficient solutions across cloud-native and on-premise environments. My focus is on streamlining workflows, reliability, and continuous improvement at every layer of the stack.</em>
+	<em>Welcome! As an automation enthusiast, I practice DevSecOps and SRE expertise to deliver secure, resilient, and efficient solutions across cloud-native and on-premise environments. My focus is on streamlining workflows, reliability, and continuous improvement at every layer of the stack.</em>
 </div>
 
 ---
