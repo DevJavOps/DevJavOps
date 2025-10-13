@@ -109,7 +109,7 @@ Feb 2019 – Jul 2019
 
 ---
 
-> "Empowering teams to build, secure, and scale in the cloud."
+<div align="center"><em>“Empowering teams to build, secure, and scale in the cloud.”</em></div>
 
 ###
 
