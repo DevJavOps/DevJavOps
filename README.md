@@ -10,6 +10,124 @@
 
 - 📫 How to reach me **DevJavOps@outlook.com**
 
+###
+
+# 👋 Hi, I'm Felipe Avella
+
+**DevJavOps | Cloud & DevOps Engineer | Security Advocate | Automation Enthusiast**
+
+---
+
+Welcome to my GitHub! I'm a passionate technologist with a strong background in cloud computing, DevOps, and cybersecurity. I thrive on building scalable, secure, and automated solutions that empower teams and organizations to innovate and grow.
+
+## 🚀 About Me
+
+With years of hands-on experience in the tech industry, I specialize in:
+
+- Architecting and deploying cloud-native applications
+- Automating infrastructure and CI/CD pipelines
+- Integrating security best practices into every stage of development (DevSecOps)
+- Monitoring, analytics, and performance optimization
+- Mentoring teams and driving digital transformation
+
+I believe in continuous learning, knowledge sharing, and leveraging technology to solve real-world problems.
+
+## 🛠️ Skills & Tools
+
+**Cloud Platforms:**
+	- AWS (EC2, S3, Lambda, CloudFormation, IAM)
+	- Azure (App Services, Azure DevOps, ARM Templates)
+	- Google Cloud Platform (GKE, Cloud Functions)
+
+**DevOps & Automation:**
+	- Docker, Kubernetes, Helm
+	- Terraform, Ansible, Packer
+	- Jenkins, GitHub Actions, GitLab CI, CircleCI
+	- Bash, Python, PowerShell scripting
+
+**Security:**
+	- DevSecOps, SAST/DAST, Security Automation
+	- Threat Modeling, Vulnerability Management
+	- SIEM (Splunk, ELK), Identity & Access Management
+
+**Monitoring & Observability:**
+	- Prometheus, Grafana, ELK Stack, Datadog
+	- CloudWatch, Azure Monitor
+
+**Programming & Scripting:**
+	- Python, Bash, JavaScript, TypeScript
+	- Node.js, Express, React
+
+**Other Tools:**
+	- Linux, Git, Nginx, Apache
+	- Agile/Scrum, Jira, Confluence
+	- API Design (REST, OpenAPI/Swagger)
+
+## 💼 Experience
+
+**Cloud & DevOps Engineer**  
+*Multiple organizations, 2017–Present*
+
+- Designed and implemented cloud architectures for high-availability and scalability
+- Automated infrastructure provisioning and application deployments
+- Led DevSecOps initiatives, integrating security into CI/CD pipelines
+- Developed monitoring and alerting solutions for mission-critical systems
+- Mentored junior engineers and promoted best practices across teams
+
+**Security Consultant**  
+*Freelance, 2015–2017*
+
+- Conducted security assessments and vulnerability scans
+- Advised on secure cloud migration and compliance
+- Delivered training on secure coding and DevOps practices
+
+## 🎓 Education
+
+
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+National University of Colombia, Bogotá
+2011 – 2016
+
+- Relevant coursework: Software Engineering, Distributed Systems, Information Security, Cloud Computing, Data Structures & Algorithms
+- Graduated with honors
+
+## 🏆 Notable Projects
+
+- **Personal Blog & Knowledge Base:**  
+	Built and maintain [avelladevops.com](https://avelladevops.com) to share insights on DevOps, cloud, and security.
+- **Cloud Automation Toolkit:**  
+	Developed reusable Terraform and Ansible modules for rapid, secure cloud deployments.
+- **DevSecOps Pipeline:**  
+	Designed a CI/CD pipeline integrating automated security scans and compliance checks.
+
+## 📚 Latest Blog Posts
+
+- [Analytics and Monitoring](https://avelladevops.com/analytics-and-monitoring.html)
+- [Cloud Computing Demystified](https://avelladevops.com/cloud-computing-demystified.html)
+- [Latest DevOps Practices](https://avelladevops.com/latest-deovps-practices.html)
+- [Redefining Productivity](https://avelladevops.com/redefining-productivity.html)
+- [Staying Ahead of Threats](https://avelladevops.com/staying-ahead-of-threats.html)
+- [Understanding APIs and Integration](https://avelladevops.com/understanding-APIs-and-integration.html)
+
+## 📫 Contact
+
+- Email: [DevJavOps@outlook.com](mailto:DevJavOps@outlook.com)
+- LinkedIn: [linkedin.com/in/felipe-avella](https://linkedin.com/in/felipe-avella)
+
+## 🌐 Social
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/felipe-avella)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/DevJavOps)
+
+---
+
+> "Empowering teams to build, secure, and scale in the cloud."
+
+###
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
