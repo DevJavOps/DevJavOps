@@ -66,7 +66,7 @@ I believe in continuous learning, knowledge sharing, and leveraging technology t
 ## 💼 Experience
 
 **Cloud & DevOps Engineer**  
-*Multiple organizations, 2017–Present*
+*Multiple organizations, 2019–Present*
 
 - Designed and implemented cloud architectures for high-availability and scalability
 - Automated infrastructure provisioning and application deployments
@@ -74,34 +74,12 @@ I believe in continuous learning, knowledge sharing, and leveraging technology t
 - Developed monitoring and alerting solutions for mission-critical systems
 - Mentored junior engineers and promoted best practices across teams
 
-**Security Consultant**  
-*Freelance, 2015–2017*
+**Full Stack Developer**  
+*Freelance, 2019*
 
 - Conducted security assessments and vulnerability scans
 - Advised on secure cloud migration and compliance
 - Delivered training on secure coding and DevOps practices
-
-## 🎓 Education
-
-
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-National University of Colombia, Bogotá
-2011 – 2016
-
-- Relevant coursework: Software Engineering, Distributed Systems, Information Security, Cloud Computing, Data Structures & Algorithms
-- Graduated with honors
-
-## 🏆 Notable Projects
-
-- **Personal Blog & Knowledge Base:**  
-	Built and maintain [avelladevops.com](https://avelladevops.com) to share insights on DevOps, cloud, and security.
-- **Cloud Automation Toolkit:**  
-	Developed reusable Terraform and Ansible modules for rapid, secure cloud deployments.
-- **DevSecOps Pipeline:**  
-	Designed a CI/CD pipeline integrating automated security scans and compliance checks.
 
 ## 📚 Latest Blog Posts
 
