@@ -1,18 +1,10 @@
 <h1 align="center">Felipe Avella</h1>
-<h3 align="center">Sr DevSecOps/SRE Engineer</h3>
+**DevJavOps | Cloud, DevOps & SRE Engineer | Automation Enthusiast**
 
 <p>With a strong foundation in DevSecOps and Site Reliability Engineering best practices and automation, working across both cloud-native and on-premise ecosystems, focused on secure, efficient software delivery and automating CI/CD workflows and reinforcing platforms stability through monitoring, recovery planning and resilience engineering.</p>
 <p>Diligent with a passion for building efficient, reliable and secure infrastructure. A perceptive problem-solver, who thrives in dynamic environments where listening and understanding are key to successful outcomes. My open-minded approach allows me to adapt quickly to new technologies and methodologies, while a deep enthusiasm for technology motivates my pursuit of continuous growth and innovation.
   
-# 👋 Hi, I'm Felipe Avella
-
-
-**DevJavOps | Cloud, DevOps & SRE Engineer | Security Advocate | Automation Enthusiast**
-
 ---
-
-
-Welcome to my GitHub! I'm a passionate technologist with a strong background in cloud computing, DevOps, Site Reliability Engineering (SRE), and cybersecurity. I thrive on building scalable, reliable, secure, and automated solutions that empower teams and organizations to innovate and grow.
 
 ## 🚀 About Me
 
