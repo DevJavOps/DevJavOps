@@ -4,31 +4,26 @@
 <p>With a strong foundation in DevSecOps and Site Reliability Engineering best practices and automation, working across both cloud-native and on-premise ecosystems, focused on secure, efficient software delivery and automating CI/CD workflows and reinforcing platforms stability through monitoring, recovery planning and resilience engineering.</p>
 <p>Diligent with a passion for building efficient, reliable and secure infrastructure. A perceptive problem-solver, who thrives in dynamic environments where listening and understanding are key to successful outcomes. My open-minded approach allows me to adapt quickly to new technologies and methodologies, while a deep enthusiasm for technology motivates my pursuit of continuous growth and innovation.
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnavella&label=Profile%20views&color=0e75b6&style=flat" alt="johnavella" /> </p>
-
-- 🌱 I’m currently learning **Automation**
-
-- 📫 How to reach me **DevJavOps@outlook.com**
-
-###
-
 # 👋 Hi, I'm Felipe Avella
 
-**DevJavOps | Cloud & DevOps Engineer | Security Advocate | Automation Enthusiast**
+
+**DevJavOps | Cloud, DevOps & SRE Engineer | Security Advocate | Automation Enthusiast**
 
 ---
 
-Welcome to my GitHub! I'm a passionate technologist with a strong background in cloud computing, DevOps, and cybersecurity. I thrive on building scalable, secure, and automated solutions that empower teams and organizations to innovate and grow.
+
+Welcome to my GitHub! I'm a passionate technologist with a strong background in cloud computing, DevOps, Site Reliability Engineering (SRE), and cybersecurity. I thrive on building scalable, reliable, secure, and automated solutions that empower teams and organizations to innovate and grow.
 
 ## 🚀 About Me
 
 With years of hands-on experience in the tech industry, I specialize in:
 
-- Architecting and deploying cloud-native applications
-- Automating infrastructure and CI/CD pipelines
+- Architecting and deploying cloud-native and highly reliable applications
+- Automating infrastructure, CI/CD, and operational workflows
+- Implementing SRE practices: SLIs/SLOs, error budgets, incident response, and postmortems
 - Integrating security best practices into every stage of development (DevSecOps)
-- Monitoring, analytics, and performance optimization
-- Mentoring teams and driving digital transformation
+- Monitoring, observability, and performance optimization at scale
+- Promoting reliability, automation, and a culture of continuous improvement
 
 I believe in continuous learning, knowledge sharing, and leveraging technology to solve real-world problems.
 
@@ -39,20 +34,24 @@ I believe in continuous learning, knowledge sharing, and leveraging technology t
 	- Azure (App Services, Azure DevOps, ARM Templates)
 	- Google Cloud Platform (GKE, Cloud Functions)
 
-**DevOps & Automation:**
-	- Docker, Kubernetes, Helm
+**DevOps, SRE & Automation:**
+	- Docker, Kubernetes, Helm, Istio
 	- Terraform, Ansible, Packer
 	- Jenkins, GitHub Actions, GitLab CI, CircleCI
 	- Bash, Python, PowerShell scripting
+	- SRE practices: SLIs/SLOs, error budgets, incident management, chaos engineering
+	- Service Mesh, Load Balancing, Auto-scaling
+
+**Monitoring, Observability & Reliability:**
+	- Prometheus, Grafana, ELK Stack, Datadog, New Relic
+	- CloudWatch, Azure Monitor, Google Operations Suite
+	- Alertmanager, PagerDuty, Opsgenie
+	- Distributed tracing (Jaeger, Zipkin)
 
 **Security:**
 	- DevSecOps, SAST/DAST, Security Automation
 	- Threat Modeling, Vulnerability Management
 	- SIEM (Splunk, ELK), Identity & Access Management
-
-**Monitoring & Observability:**
-	- Prometheus, Grafana, ELK Stack, Datadog
-	- CloudWatch, Azure Monitor
 
 **Programming & Scripting:**
 	- Python, Bash, JavaScript, TypeScript
@@ -65,21 +64,32 @@ I believe in continuous learning, knowledge sharing, and leveraging technology t
 
 ## 💼 Experience
 
-**Cloud & DevOps Engineer**  
-*Multiple organizations, 2019–Present*
+**DevSecOps Engineer**  
+Leading Zen S.A.S  
+Sep 2021 – Present
+- Implemented DevSecOps practices by automating application lifecycle tasks
+- Integrated security testing (SAST, DAST, pentesting) into pipelines
+- Managed cloud infrastructure (AWS, GCP, Azure)
+- Configured CI/CD pipelines using Terraform, Ansible, Docker, Kubernetes
+- Enhanced monitoring, collaboration, and technology adoption
 
-- Designed and implemented cloud architectures for high-availability and scalability
-- Automated infrastructure provisioning and application deployments
-- Led DevSecOps initiatives, integrating security into CI/CD pipelines
-- Developed monitoring and alerting solutions for mission-critical systems
-- Mentored junior engineers and promoted best practices across teams
+**DevOps Engineer**  
+Vermilion S.A.S  
+Aug 2019 – Aug 2021
+- Managed code versioning and configuration
+- Implemented CI/CD pipelines with Jenkins, GitLab, and Azure DevOps
+- Automated infrastructure with Terraform and CloudFormation
+- Used Docker and Kubernetes for containerization and orchestration
+- Supported security and access management
+- Collaborated across teams and contributed to documentation and operational improvements
 
 **Full Stack Developer**  
-*Freelance, 2019*
-
-- Conducted security assessments and vulnerability scans
-- Advised on secure cloud migration and compliance
-- Delivered training on secure coding and DevOps practices
+Vermilion S.A.S  
+Feb 2019 – Jul 2019
+- Developed front-end UIs and back-end APIs
+- Integrated external services and optimized databases
+- Tested and debugged code, managed version control and deployments
+- Collaborated across teams and researched web development best practices
 
 ## 📚 Latest Blog Posts
 
@@ -136,3 +146,6 @@ I believe in continuous learning, knowledge sharing, and leveraging technology t
 </picture>
 
 ###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnavella&label=Profile%20views&color=0e75b6&style=flat" alt="johnavella" /> </p>
+
