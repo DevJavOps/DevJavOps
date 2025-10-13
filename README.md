@@ -1,5 +1,5 @@
 <h1 align="center">Felipe Avella</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnavella&label=Profile%20views&color=0e75b6&style=flat" alt="johnavella" /> </p>
 <div align="center">
 
 **DevJavOps | Cloud, DevOps & SRE Engineer | Automation Enthusiast**
@@ -127,8 +127,6 @@ Feb 2019 – Jul 2019
 </picture>
 
 ###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnavella&label=Profile%20views&color=0e75b6&style=flat" alt="johnavella" /> </p>
 
 ---
 
