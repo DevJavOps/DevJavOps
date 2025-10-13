@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**DevJavOps | Cloud, DevOps & SRE Engineer | Security Advocate | Automation Enthusiast**
+**DevJavOps | Cloud, DevOps & SRE Engineer | Automation Enthusiast**
 
 </div>
 
