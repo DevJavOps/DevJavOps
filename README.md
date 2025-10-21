@@ -153,7 +153,7 @@ Feb 2019 – Jul 2019
 
 ###
 
-<a href="https://app.daily.dev/felipeavella"><img src="./devcard.png" width="652" alt="Felipe Avella's Dev Card"/></a>
+<a href="https://app.daily.dev/felipeavella"><img src="https://raw.githubusercontent.com/DevJavOps/DevJavOps/devcard/devcard.png" width="652" alt="Felipe Avella's Dev Card"/></a>
 
 ###
 
