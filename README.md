@@ -167,10 +167,7 @@ Feb 2019 – Jul 2019
 ###
 
 <picture>
-  <!-- Dark mode view: Dynamically inverts the working file into dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevJavOps/Contribution-PacMan/output/pacman-contribution-graph.svg" style="filter: invert(1) hue-rotate(180deg);">
-  
-  <!-- Light mode view -->
+  <!-- Light mode view (Default) -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevJavOps/Contribution-PacMan/output/pacman-contribution-graph.svg">
   
   <!-- Fallback image -->
