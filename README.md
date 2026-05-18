@@ -167,9 +167,9 @@ Feb 2019 – Jul 2019
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DevJavOps/Contribution-PacMan/blob/afa6ac0d1bf0700b9da58ccd2af094a1f425f6c7/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DevJavOps/Contribution-PacMan/blob/afa6ac0d1bf0700b9da58ccd2af094a1f425f6c7/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://github.com/DevJavOps/Contribution-PacMan/blob/afa6ac0d1bf0700b9da58ccd2af094a1f425f6c7/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevJavOps/Contribution-PacMan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevJavOps/Contribution-PacMan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevJavOps/Contribution-PacMan/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
