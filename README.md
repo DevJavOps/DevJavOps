@@ -168,7 +168,7 @@ Feb 2019 – Jul 2019
 
 <picture>
   <!-- Light mode view (Default) -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevJavOps/Contribution-PacMan/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevJavOps/Contribution-PacMan/refs/heads/output/pacman-contribution-graph.svg">
 
   <!-- Dark mode view -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevJavOps/Contribution-PacMan/refs/heads/output/pacman-contribution-graph-dark.svg">
