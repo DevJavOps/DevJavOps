@@ -79,15 +79,15 @@ Sep 2021 – Present
 - Configured CI/CD pipelines using Terraform, Ansible, Docker, Kubernetes
 - Enhanced monitoring, collaboration, and technology adoption
 
-**DevOps Engineer**  
+**SRE Engineer**  
 Vermilion S.A.S  
 Aug 2019 – Aug 2021
-- Managed code versioning and configuration
-- Implemented CI/CD pipelines with Jenkins, GitLab, and Azure DevOps
-- Automated infrastructure with Terraform and CloudFormation
-- Used Docker and Kubernetes for containerization and orchestration
-- Supported security and access management
-- Collaborated across teams and contributed to documentation and operational improvements
+- Managed Git-based configuration-as-code and GitOps workflows to eliminate configuration drift across multi-account environments.
+- Engineered automated deployment gates, canary releases, and rollback mechanisms using GitHub Actions to minimize MTTD while safeguarding production stability.
+- Architected scalable, self-healing cloud infrastructure using Terraform, enforcing compliance and drift detection.
+- Optimized cluster reliability for large-scale workloads on AWS EKS.
+- Enforced the principle of least privilege by automating secure access via AWS IAM Identity Center, AWS Secrets Manager, and integrating automated container vulnerability scanning.
+- established comprehensive observability dashboards using Datadog and Prometheus/Grafana, and led blameless post-mortems to eliminate systemic failure modes.
 
 **Full Stack Developer**  
 Vermilion S.A.S  
